@@ -243,7 +243,6 @@ body {
     display: flex;
     flex-direction: column;
     max-width: 486px;
-    gap: 10px;
 }
 
 .design-professional-right-side{
