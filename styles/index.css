@@ -396,4 +396,29 @@ body {
     border: none;
 }
 
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px
+}
+
+.about-us-links {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.legal-links {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.footer-list-items {
+    display: flex;
+    align-items: center;
+    gap: 175px;
+}
+
 
